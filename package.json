@@ -1,0 +1,24 @@
+{
+  "name": "sketch-sync",
+  "version": "1.0.0",
+  "description": "Prototype of Sketch assets synchronization and tracking changes",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XOP/sketch-sync.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/XOP/sketch-sync/issues"
+  },
+  "homepage": "https://github.com/XOP/sketch-sync#readme",
+  "license": "UNLICENSED",
+  "scripts": {
+  },
+  "devDependencies": {
+    "husky": "0.14.3"
+  },
+  "dependencies": {
+    "kactus-cli": "0.2.1"
+  }
+}
