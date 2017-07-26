@@ -1,10 +1,20 @@
 {
   "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGa2xYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmJyszNDU2Nz5BTVBTVl5iZGZoVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADXENvbG9yIFN0eWxlc9MREgoTGR9XTlMua2V5c1pOUy5vYmplY3RzpRQVFhcYgASABYAGgAeACKUaGxwdHoAJgAqAC4ATgBeAG18QKE1TQXR0cmlidXRlZFN0cmluZ1RleHRUcmFuc2Zvcm1BdHRyaWJ1dGVWTlNLZXJuXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QEE5TUGFyYWdyYXBoU3R5bGVXTlNDb2xvchABEADSCigpKl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgosLzKiLS6ADYAOojAxgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUQDl1IZWx2ZXRpY2FOZXVl0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqI/PdZCQ0RFCkZHSElKS0xaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NfEA9OU01heExpbmVIZWlnaHSAAIAUEBSAFIAWEBTSEgpOT6CAFdI4OVFSV05TQXJyYXmiUT3SODlUVV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1QjPdRXWFkKWltcXVVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VGMSAxIDEAEAGAGIAa0l8KYGFUTlNJRBABgBnSODlYY6JYPdI4OSRloiQ90jg5PGeiPD3SODlpal8QEk5TQXR0cmlidXRlZFN0cmluZ6JpPV8QD05TS2V5ZWRBcmNoaXZlctFtblRyb290gAEACAARABoAIwAtADIANwBXAF0AZABtAHQAgQCDAIUAhwCUAJsAowCuALQAtgC4ALoAvAC+AMQAxgDIAMoAzADOANAA+wECASQBNwE/AUEBQwFIAWUBZwFpAXABcwF1AXcBegF8AX4BgAGWAawBrgG8AcEBzAHVAesB7wH8AgUCCgIdAiACLQI4AkQCVgJjAnUCdwJ5AnsCfQJ/AoEChgKHAokCjgKWApkCngK4ArwCxQLLAtgC7QL0AvYC+AL6Av8DBAMGAwgDDQMQAxUDGAMdAyADJQM6Az0DTwNSA1cAAAAAAAACAQAAAAAAAABvAAAAAAAAAAAAAAAAAAADWQ=="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "D578539D-9C08-431D-8F67-41EF1242EB56",
+  "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,11 +26,14 @@
     "x": 50,
     "y": 0
   },
+  "glyphBounds": "{{0, 5}, {104, 12}}",
+  "heightIsClipped": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
   "name": "Color Styles",
   "nameIsFixed": false,
   "resizingConstraint": 47,
@@ -36,389 +49,18 @@
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringFontAttribute": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "$class": {
-                    "UID": 8
-                  },
-                  "NSFontDescriptorAttributes": {
-                    "UID": 2
-                  }
-                },
-                {
-                  "NS.keys": [
-                    {
-                      "UID": 3
-                    },
-                    {
-                      "UID": 4
-                    }
-                  ],
-                  "NS.objects": [
-                    {
-                      "UID": 5
-                    },
-                    {
-                      "UID": 6
-                    }
-                  ],
-                  "$class": {
-                    "UID": 7
-                  }
-                },
-                "NSFontSizeAttribute",
-                "NSFontNameAttribute",
-                14,
-                "HelveticaNeue",
-                {
-                  "$classname": "NSMutableDictionary",
-                  "$classes": [
-                    "NSMutableDictionary",
-                    "NSDictionary",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSFontDescriptor",
-                  "$classes": [
-                    "NSFontDescriptor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
-        },
-        "NSKern": 0,
-        "NSColor": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSRGB": {
-                    "type": "Buffer",
-                    "data": "1 1 1\u0000"
-                  },
-                  "NSColorSpace": 1,
-                  "NSCustomColorSpace": {
-                    "UID": 2
-                  },
-                  "$class": {
-                    "UID": 4
-                  }
-                },
-                {
-                  "NSID": 1,
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSColorSpace",
-                  "$classes": [
-                    "NSColorSpace",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSColor",
-                  "$classes": [
-                    "NSColor",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJSZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZRAOXUhlbHZldGljYU5ldWXSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiMhXxAPTlNLZXllZEFyY2hpdmVy0ScoVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoAzADaAN8A6gDzAQkBDQEaASMBKAE7AT4BUAFTAVgAAAAAAAACAQAAAAAAAAApAAAAAAAAAAAAAAAAAAABWg=="
         },
         "MSAttributedStringTextTransformAttribute": 1,
+        "NSColor": {
+          "_archive": "YnBsaXN0MDDUAQIDBAUGHR5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBEVGlUkbnVsbNQJCgsMDQ4PEFVOU1JHQlxOU0NvbG9yU3BhY2VfEBJOU0N1c3RvbUNvbG9yU3BhY2VWJGNsYXNzRjEgMSAxABABgAKABNISDBMUVE5TSUQQAYAD0hYXChhaJGNsYXNzbmFtZVgkY2xhc3Nlc6IKGVhOU09iamVjdNIWFxscV05TQ29sb3KiGxlfEA9OU0tleWVkQXJjaGl2ZXLRHyBUcm9vdIABCBEaIy0yNz1DTFJfdHuChIaIjZKUlpumr7K7wMjL3eDlAAAAAAAAAQEAAAAAAAAAIQAAAAAAAAAAAAAAAAAAAOc="
+        },
+        "NSKern": 0,
         "NSParagraphStyle": {
-          "_archive": [
-            {
-              "$version": 100000,
-              "$objects": [
-                "$null",
-                {
-                  "NSTabStops": {
-                    "UID": 0
-                  },
-                  "NSTextLists": {
-                    "UID": 2
-                  },
-                  "NSMinLineHeight": 20,
-                  "NSTextBlocks": {
-                    "UID": 2
-                  },
-                  "$class": {
-                    "UID": 4
-                  },
-                  "NSMaxLineHeight": 20
-                },
-                {
-                  "NS.objects": [],
-                  "$class": {
-                    "UID": 3
-                  }
-                },
-                {
-                  "$classname": "NSArray",
-                  "$classes": [
-                    "NSArray",
-                    "NSObject"
-                  ]
-                },
-                {
-                  "$classname": "NSMutableParagraphStyle",
-                  "$classes": [
-                    "NSMutableParagraphStyle",
-                    "NSParagraphStyle",
-                    "NSObject"
-                  ]
-                }
-              ],
-              "$archiver": "NSKeyedArchiver",
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              }
-            }
-          ]
+          "_archive": "YnBsaXN0MDDUAQIDBAUGIyRYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBUZH1UkbnVsbNYJCgsMDQ4PEBESExRaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAhAUgAKABBAU0hYNFxhaTlMub2JqZWN0c6CAA9IaGxwdWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIcHlhOU09iamVjdNIaGyAhXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjICIeXxAQTlNQYXJhZ3JhcGhTdHlsZV8QD05TS2V5ZWRBcmNoaXZlctElJlRyb290gAEACAARABoAIwAtADIANwA9AEMAUABbAGcAeQCGAI0AnwChAKMApQCnAKkAqwCwALsAvAC+AMMAzgDXAN8A4gDrAPABCgEOASEBMwE2ATsAAAAAAAACAQAAAAAAAAAnAAAAAAAAAAAAAAAAAAABPQ=="
         }
       }
     }
   },
-  "attributedString": {
-    "_class": "MSAttributedString",
-    "archivedAttributedString": {
-      "_archive": [
-        {
-          "$version": 100000,
-          "$objects": [
-            "$null",
-            {
-              "NSString": {
-                "UID": 2
-              },
-              "$class": {
-                "UID": 28
-              },
-              "NSAttributes": {
-                "UID": 3
-              }
-            },
-            "Color Styles",
-            {
-              "NS.keys": [
-                {
-                  "UID": 4
-                },
-                {
-                  "UID": 5
-                },
-                {
-                  "UID": 6
-                },
-                {
-                  "UID": 7
-                },
-                {
-                  "UID": 8
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 9
-                },
-                {
-                  "UID": 10
-                },
-                {
-                  "UID": 11
-                },
-                {
-                  "UID": 19
-                },
-                {
-                  "UID": 23
-                }
-              ],
-              "$class": {
-                "UID": 27
-              }
-            },
-            "MSAttributedStringTextTransformAttribute",
-            "NSKern",
-            "MSAttributedStringFontAttribute",
-            "NSParagraphStyle",
-            "NSColor",
-            1,
-            0,
-            {
-              "$class": {
-                "UID": 18
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 12
-              }
-            },
-            {
-              "NS.keys": [
-                {
-                  "UID": 13
-                },
-                {
-                  "UID": 14
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 15
-                },
-                {
-                  "UID": 16
-                }
-              ],
-              "$class": {
-                "UID": 17
-              }
-            },
-            "NSFontSizeAttribute",
-            "NSFontNameAttribute",
-            14,
-            "HelveticaNeue",
-            {
-              "$classname": "NSMutableDictionary",
-              "$classes": [
-                "NSMutableDictionary",
-                "NSDictionary",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSFontDescriptor",
-              "$classes": [
-                "NSFontDescriptor",
-                "NSObject"
-              ]
-            },
-            {
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextLists": {
-                "UID": 20
-              },
-              "NSMinLineHeight": 20,
-              "NSTextBlocks": {
-                "UID": 20
-              },
-              "$class": {
-                "UID": 22
-              },
-              "NSMaxLineHeight": 20
-            },
-            {
-              "NS.objects": [],
-              "$class": {
-                "UID": 21
-              }
-            },
-            {
-              "$classname": "NSArray",
-              "$classes": [
-                "NSArray",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSMutableParagraphStyle",
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ]
-            },
-            {
-              "NSRGB": {
-                "type": "Buffer",
-                "data": "1 1 1\u0000"
-              },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 24
-              },
-              "$class": {
-                "UID": 26
-              }
-            },
-            {
-              "NSID": 1,
-              "$class": {
-                "UID": 25
-              }
-            },
-            {
-              "$classname": "NSColorSpace",
-              "$classes": [
-                "NSColorSpace",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSColor",
-              "$classes": [
-                "NSColor",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSDictionary",
-              "$classes": [
-                "NSDictionary",
-                "NSObject"
-              ]
-            },
-            {
-              "$classname": "NSAttributedString",
-              "$classes": [
-                "NSAttributedString",
-                "NSObject"
-              ]
-            }
-          ],
-          "$archiver": "NSKeyedArchiver",
-          "$top": {
-            "root": {
-              "UID": 1
-            }
-          }
-        }
-      ]
-    }
-  },
-  "automaticallyDrawOnUnderlyingPath": false,
-  "dontSynchroniseWithSymbol": false,
-  "glyphBounds": "{{0, 5}, {104, 12}}",
-  "heightIsClipped": false,
-  "lineSpacingBehaviour": 2,
   "textBehaviour": 0
 }

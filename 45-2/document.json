@@ -1,22 +1,28 @@
 {
   "_class": "document",
-  "do_objectID": "2f759170-6b96-11e7-96fa-95a0b685eb26",
   "assets": {
     "_class": "assetCollection",
-    "colors": [],
-    "gradients": [],
+    "colors": [
+    ],
+    "gradients": [
+    ],
     "imageCollection": {
       "_class": "imageCollection",
-      "images": {}
+      "images": {
+      }
     },
-    "images": []
+    "images": [
+    ]
   },
+  "do_objectID": "2f759170-6b96-11e7-96fa-95a0b685eb26",
   "enableLayerInteraction": true,
   "enableSliceInteraction": true,
-  "foreignSymbols": [],
+  "foreignSymbols": [
+  ],
   "layerSymbols": {
     "_class": "symbolContainer",
-    "objects": []
+    "objects": [
+    ]
   },
   "userInfo": {
     "com.invisionlabs.sync": {

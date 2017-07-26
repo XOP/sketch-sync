@@ -1,10 +1,19 @@
 {
   "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "do_objectID": "96FD033B-7074-46C7-8E40-8C260A095C36",
   "exportOptions": {
     "_class": "exportOptions",
-    "exportFormats": [],
-    "includedLayerIds": [],
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
     "layerOptions": 0,
     "shouldTrim": false
   },
@@ -16,46 +25,8 @@
     "x": 88,
     "y": 859
   },
-  "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
-  "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Layer styles",
-  "nameIsFixed": true,
-  "resizingConstraint": 63,
-  "resizingType": 0,
-  "rotation": 0,
-  "shouldBreakMaskChain": false,
-  "style": {
-    "_class": "style",
-    "endDecorationType": 0,
-    "miterLimit": 10,
-    "startDecorationType": 0
-  },
-  "hasClickThrough": false,
-  "layers": [
-    {
-      "id": "437F28D8-648D-491D-BC9F-4DB28BEB4787",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "B81038ED-EC6C-404A-ABFE-890CED64A95C",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "33AE597C-9EE3-4EE1-B7F6-CD5E7231329F",
-      "class": "group"
-    }
-  ],
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
   "hasBackgroundColor": false,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -66,7 +37,38 @@
   },
   "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "437F28D8-648D-491D-BC9F-4DB28BEB4787"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B81038ED-EC6C-404A-ABFE-890CED64A95C"
+    },
+    {
+      "class": "group",
+      "id": "33AE597C-9EE3-4EE1-B7F6-CD5E7231329F"
+    }
+  ],
+  "name": "Layer styles",
+  "nameIsFixed": true,
   "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
